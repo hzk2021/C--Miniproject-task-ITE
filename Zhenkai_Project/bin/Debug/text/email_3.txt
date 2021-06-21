@@ -1,0 +1,8 @@
+Subject line: Just tried your line / next steps
+Hey {!First Name},
+I just left you a voicemail but wanted to drop a line by email in case this is more convenient for you. 
+I’m reaching out because it looks like {!Point of alignment between their company and yours}. 
+We’re {!Company pitch with value to them — include stat & customer name(s)}.
+{!First Name}, I’d love to connect about your specific needs. I also have a suggestion about how you can {!Achieve desired result} (with or without us).
+Give me a call back at {!Your phone number} if convenient, or feel free to reply to this email. 
+Thanks!
